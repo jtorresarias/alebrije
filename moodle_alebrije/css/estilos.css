@@ -38,13 +38,22 @@ li{
 .p1{
     font-size: 14pt;
     word-spacing: 5pt;
-    margin-left: 100px;
+    margin-left: 40px;
 }
 .primero{
     margin-left: 50px;
     letter-spacing: 10pt;
     font-size: 28pt;
     font-weight: 300;
+}
+.linea1{
+    margin-left: 30px;
+}
+.linea3{
+    margin-left: 130px;
+}
+.linea5{
+    margin-left: 150px;
 }
 .rojo1{
     background-color: red;
@@ -53,6 +62,12 @@ li{
     margin-top: 20px;
     display: flex;
     justify-content: space-between;
+}
+.linea1-2{
+    margin-left: 10px;
+}
+.linea4-2{
+    margin-left: 75px;
 }
 .rojo2{
     background-color: red;
@@ -112,13 +127,24 @@ button{
     color: #fff;
     border-radius: 12px;
     padding: 7px;
-    margin-left: 200px;
+    margin-left: 170px;
+}
+.linea2-3{
+    margin-left: 25px;
 }
 .alineado{
     width: 70%;
     height: 20vh;
     position: absolute;
     left: 15%;
+}
+.boton2{
+    background-color: red;
+    border: 1px solid #fff;
+    color: #fff;
+    border-radius: 12px;
+    padding: 7px;
+    margin-left: 210px;
 }
 .boton{
 background-color: black;
